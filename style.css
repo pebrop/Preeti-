@@ -1,0 +1,9 @@
+h1 {
+  font-family: arial;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
